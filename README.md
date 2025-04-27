@@ -26,4 +26,5 @@ replace `{url to a download link}` with a url to a download and this can downloa
 
 now after you have created a Info.json with whatever info
 zip the folder up and rename it to {whatever}.mmm (note: requires show file extension to be enabled as you are changing .zip to .mmm)
-once that's done test it and it shoudl work!
+once that's done test it and it should work!
+Make sure to test it and check that in the zip/mmm file there isn't a folder cause if there is it won't work!
