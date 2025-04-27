@@ -5,21 +5,21 @@ inside of Info.json there are 3 different options to do this allows for up to 3 
 1.
 ```
 {
-  "dll": {modname}
+  "dll": "{modname}"
 }
 ```
 replace `{modname}` with the name of your mod and the dll of your mod must be in the same folder as the `Info.json`
 2.
 ```
 {
-  "zip": {mod/whatever name}
+  "zip": "{mod/whatever name}"
 }
 ```
 replace `{mod/whatever name}` with the name of what the thing that you are installing zips can contain anything really they will always go into a folder with the whatever you put where `{mod/whatever name}` is.
 3.
 ```
 {
-  "download": {url to a download link}
+  "download": "{url to a download link}"
 }
 ```
 replace `{url to a download link}` with a url to a download and this can download zips or dlls nothing else.
