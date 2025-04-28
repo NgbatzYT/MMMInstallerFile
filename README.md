@@ -1,4 +1,9 @@
 # MMM Installer File
+
+### Use the latest release instead of this guide - https://github.com/NgbatzYT/MMMInstallerFile/releases/latest
+
+
+
 To make an MMM Installer File
 first, create a folder with a file called `Info.json`
 inside of Info.json there are 3 different options to do this allows for up to 3 different thing to install or more in zips
